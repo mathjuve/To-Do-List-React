@@ -8,18 +8,18 @@
 
 ## 💻 Sobre o Projeto
 
-Este projeto trata-se de uma lista de tarefas totalmente funcional para seu dia a dia! incluindo tarefas pedentes e adicionando um checked em suas tarefas realizadas. Foi utilizado React para o desenvolvimento deste projeto.
+Este projeto trata-se de uma lista de tarefas totalmente funcional para seu dia a dia! incluindo tarefas pedentes e adicionando um "checked" em suas tarefas realizadas. Foi utilizado React para o desenvolvimento deste projeto.
 
 ## 🔧Ajustes e melhorias
 O projeto ainda está em desenvolvimento!
 
 - [X] Armazenar a lista no localStorage
-- [X] Adcionar percentual de tarefas concluídas
+- [X] Adicionar percentual de tarefas concluídas
 - [X] Adicionar modo escuro
 <br>
 
 ## 👨‍💻Link para acesso: 
-<a href="https://app-organizer-list.netlify.app/">Aperte aqui ⬅ </a>
+<a href="https://app-organizer-list.netlify.app/" target="_blank">Aperte aqui ⬅ </a>
 
 
 ## ☕ tecnologias utilizadas
