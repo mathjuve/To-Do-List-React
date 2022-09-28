@@ -19,7 +19,7 @@ O projeto ainda está em desenvolvimento!
 <br>
 
 ## 👨‍💻Link para acesso: 
-<a href="">Aperte aqui ⬅ </a>
+<a href="https://app-organizer-list.netlify.app/">Aperte aqui ⬅ </a>
 
 
 ## ☕ tecnologias utilizadas
@@ -30,13 +30,13 @@ O projeto ainda está em desenvolvimento!
 
 <br>
 
-## 🤝 Colaborador
+## 💙 Colaborador
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./src/assets/autor.png" width="100px;" alt="Foto do Matheus Juvenal no GitHub"/><br>
+        <img src="./src/assets/Autor.png" width="100px;" alt="Foto do Matheus Juvenal no GitHub"/><br>
         <sub>
           <a >Matheus Juvenal</a>
         </sub>
